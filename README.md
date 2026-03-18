@@ -1,9 +1,5 @@
 # 💫 About Me
-I’m a software developer with a Python background, currently building applications across the stack and particularly interested in how systems are built, tested, maintained, and improved over time.
-
-Following a non-linear career path, I’m actively preparing to re-enter the software development field with clearer priorities and strong technical focus.
-
-I enjoy exploring software design and testing practices, and how different tools and approaches fit together in production systems.
+Backend-focused developer with professional Django experience and a strong interest in building clean, reliable systems. I enjoy working on business logic, testing, and practical tools that solve real problems.
 
 <br>
 
