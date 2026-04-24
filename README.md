@@ -5,7 +5,7 @@ Backend-focused developer with professional Django experience and a strong inter
 
 ## 🛠️ Currently working on ##
 
-N/A
+A C#/.NET car loan calculator applying SOLID and the Specification pattern. Building it up toward a MAUI mobile app that compares loan terms across Icelandic lenders. [Click to go to repo](https://github.com/ArnarFreyrKristinsson/CarLoan)
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arnar.f.kristinsson) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnar0901) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnar-freyr-kristinsson-6317031ba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnarfkr@gmail.com) 
